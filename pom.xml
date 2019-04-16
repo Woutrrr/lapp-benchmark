@@ -10,12 +10,11 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>app</module>
-        <module>core</module>
-        <module>extension-a</module>
-        <module>simple-test</module>
         <module>invoke-static</module>
         <module>invoke-static-dep</module>
+        <module>invoke-virtual</module>
+        <module>invoke-virtual-dep</module>
+        <module>invoke-interface</module>
     </modules>
 
     <build>

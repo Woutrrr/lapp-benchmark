@@ -1,6 +1,6 @@
 package nl.wvdzwan.tudelft.benchmark.invoke_static;
 
-import nl.wvdzwan.tudelft.benchmark.dependencies.static_call.InvokeStaticDepenency;
+import nl.wvdzwan.tudelft.benchmark.dependencies.static_call.InvokeStaticDependency;
 
 public class InvokeStatic {
 
@@ -31,7 +31,7 @@ public class InvokeStatic {
     }
 
     private static String invokeStaticDep() {
-        return InvokeStaticDepenency.call();
+        return InvokeStaticDependency.call();
     }
 
 }
