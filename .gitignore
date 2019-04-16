@@ -1,0 +1,8 @@
+
+# Linux backup files
+*~
+
+# Maven
+target/
+output/
+
