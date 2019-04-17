@@ -18,6 +18,7 @@
         <module>invoke-virtual</module>
         <module>invoke-virtual-dep</module>
         <module>invoke-interface</module>
+        <module>cha</module>
     </modules>
 
     <build>
